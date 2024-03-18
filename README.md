@@ -8,7 +8,7 @@ You can access the live application at [https://shop-shizzle-ecommerce-react-app
 
 ## Features
 
-- User authentication and authorization(JWT)
+- User authentication and authorization
 - Admin dashboard for managing products, orders, users and to show statistics
 - Payemnt Gateway (RazorPay)
 - Product listing and search
@@ -19,6 +19,7 @@ You can access the live application at [https://shop-shizzle-ecommerce-react-app
 ## Tech Stack
 - Firebase
 - ReactJS
+- Tailwind CSS
 - NodeJS
   
 ## Images
