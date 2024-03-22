@@ -9,9 +9,9 @@ You can access the live application at [https://shop-shizzle-ecommerce-react-app
 ## Features
 
 - Dark Mode / Light Mode
-- User authentication and authorization
-- Admin dashboard for managing products, orders, users and to show statistics
-- Payemnt Gateway (RazorPay)
+- User Authentication and Authorization
+- Admin Dashboard for managing products, orders, users and to show statistics
+- Payment Gateway (RazorPay)
 - Product listing and search
 - Product details and reviews
 - Cart management
