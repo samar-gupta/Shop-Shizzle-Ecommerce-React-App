@@ -13,7 +13,7 @@ function Testimonial() {
                     <div className="flex flex-wrap -m-4">
                         <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
                             <div className="h-full text-center">
-                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="https://scontent.fluh1-2.fna.fbcdn.net/v/t39.30808-6/361923643_1458144194999679_2689476040155253680_n.jpg?_nc_cat=105&cb=99be929b-b574a898&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=sPVH3qdST14AX8a-Z3c&_nc_ht=scontent.fluh1-2.fna&oh=00_AfDGpH7jAgkhKXCK68JEWEYa0g6AkjRnhkkgq665aB1P3A&oe=65E6987D" />
+                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="https://res.cloudinary.com/dg3z3xzzx/image/upload/v1712314176/Insta_Profile_Pic.jpg" />
                                 <p style={{color: mode === 'dark' ? 'white' : ''}} className="leading-relaxed">I got a pair of Shoes from ShopSizzle and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!</p>
                                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
                                 <h2 style={{color: mode === 'dark' ? '#ff4162' : ''}} className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">Samar Gupta</h2>
